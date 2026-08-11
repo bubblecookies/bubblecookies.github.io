@@ -1,0 +1,4 @@
+https://bubblecookies.github.io/
+https://bubblecookies.pages.dev/
+https://bubblecookies.surge.sh/
+nzp only works on github.io
