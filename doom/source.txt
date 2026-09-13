@@ -1,2 +1,0 @@
-https://github.com/abootnet/uzdoom-wasm/commit/97a3d5c5d69f5d4b7b044ae07badd624815a6fe6
-didnt want to build itself and i couldnt be bothered to fix it so i got the files from the docker image (very janky)
