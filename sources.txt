@@ -1,0 +1,5 @@
+this page https://github.com/bubblecookies/bubblecookies.github.io
+nes tetris https://emulatorjs.org/editor
+SpaceCadetPinball https://github.com/alula/SpaceCadetPinball/commit/0bc12d3ca97a30a61e1e325cfde1eeec379bb9b9
+sam https://github.com/discordier/sam/commit/3558ce79c4c81e4c7cd4be8b05230bace36e19bb
+image-scrubber https://github.com/everestpipkin/image-scrubber/commit/390b166cfc61326476ed9d6cb376291f87e35c23
