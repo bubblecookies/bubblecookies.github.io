@@ -4,5 +4,5 @@ SpaceCadetPinball https://github.com/alula/SpaceCadetPinball/commit/0bc12d3ca97a
 sam https://github.com/discordier/sam/commit/3558ce79c4c81e4c7cd4be8b05230bace36e19bb
 image-scrubber https://github.com/everestpipkin/image-scrubber/commit/390b166cfc61326476ed9d6cb376291f87e35c23
 NZPortable https://github.com/nzp-team/nzp-team.github.io/commit/7f04e06502422630f69295ecacca75072458ab13
-sawang and ronograd maps (original - not compressed webp) https://drive.google.com/drive/folders/1aNht4-3zNclrdiIk4wFi7Pp6pz-_BBuo
-^ NYZombies.webp https://brmap5.com
+brm5 maps - SawangFull.png and Rono8k.png https://drive.google.com/drive/folders/1aNht4-3zNclrdiIk4wFi7Pp6pz-_BBuo
+^ zombies map https://brmap5.com
