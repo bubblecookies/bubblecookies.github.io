@@ -1,3 +1,2 @@
-https://bubblecookies.surge.sh/
+https://bubblecookies.surge.sh/ (recommended)
 https://bubblecookies.github.io/
-https://bubblecookies.pages.dev/
